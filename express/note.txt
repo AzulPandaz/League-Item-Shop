@@ -1,0 +1,12 @@
+Follow from top to bottom
+
+server.js
+router.js
+app folder
+config folder
+dabconfig
+routes folder 
+daos folder
+dao.js
+common folder
+daoCommon.js
